@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline:0;
+    box-sizing: border-box;
+}
+.container{
+    width:90%;
+    margin:auto;
+}
+header{
+    background-color: blueviolet;
+}
+.logo-part{
+    width:50%;
+    float:left;
+}
+.menu-part{
+width:50%;
+float:left;
+}
+.row{
+    width:100%;
+    float:left;
+}
+#service{
+background-color: aqua;
+}
+.service-box{
+    width: 25%;
+    float: left;
+}
+#about{
+
+}
+.col-1{
+    width:33.33%;
+    float:left;
+}
+.col-2{
+    width:33.33%;
+    float:left; 
+}
+.col-3{
+    width:33.33%;
+    float:left;
+}
